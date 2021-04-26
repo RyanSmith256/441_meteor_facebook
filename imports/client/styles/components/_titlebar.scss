@@ -1,0 +1,13 @@
+.title-bar {
+  text-align: center;
+  background-color: blue;
+  color: white;
+  padding: 1.2rem;
+}
+
+.title-bar__author {
+  font-size: 1.3rem;
+  font-style: italic;
+}
+
+// See also h1 in _main.scss

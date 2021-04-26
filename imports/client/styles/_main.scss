@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: adjust-color(lightblue, $lightness: 15%);
+  font-size: 1.5rem;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-weight: 300;
+  font-size: 2.6rem;
+}
+
+input, button, select {
+  font-size: 1.3rem;
+}
+
+@import "./components/_titlebar.scss";
+@import "./components/_wrapper.scss";
+@import "./components/_singleItem.scss";
+@import "./components/_button.scss";
+@import "./components/_form.scss";
+@import "./components/_post.scss";
