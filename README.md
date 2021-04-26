@@ -1,2 +1,3 @@
-# 441_meteor_facebook
-CSCI 441 assignment 04: meteor final project
+# Assignment 04: Meteor Final Project
+- All features have been implemented except for replying to topics (and by extension voting on replies).
+- No bonus features have been implemented.
